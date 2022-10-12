@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+displayName = ":uk:"
+isoCode = "en"
+weight = 1
+rtl = false
+contentdir = "content/en"
+
+title = "DTK Computing"
+#logo = "img/logo.jpg"
+description = ""
+copyright = "&copy; 2022 Congo contributors"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "iJimHD"
+  image = "img/author.jpg"
+  headline = ""
+  bio = ""
+  links = [
+    { github = "https://github.com/ijimhd" },
+    { telegram = "https://t.me/ijimhd" },
+    { gitlab = "https://gitlab.com/ijimhd" },
+  ]

@@ -1,0 +1,55 @@
+article:
+  anchor_label: "Anchor"
+  date: "{{ .Date }}"
+  date_updated: "Updated: {{ .Date }}"
+  draft: "Προσχέδιο"
+  edit_title: "Επεξεργασία περιεχομένου"
+  reading_time:
+    one: "{{ .Count }} λεπτό"
+    other: "{{ .Count }} λεπτά"
+  reading_time_title: "Χρόνος Ανάγνωσης"
+  table_of_contents: "Πίνακας Περιεχομένων"
+  word_count:
+    one: "{{ .Count }} λέξη"
+    other: "{{ .Count }} λέξεις"
+
+author:
+  byline_title: "Συγγραφέας"
+
+code:
+  copy: "Αντιγραφή"
+  copied: "Αντιγράφηκε"
+
+error:
+  404_title: "Η Σελίδα δεν βρέθηκε :confused:"
+  404_error: "Error 404"
+  404_description: "It seems that the page you've requested does not exist."
+
+footer:
+  dark_appearance: "Dark Mode"
+  light_appearance: "Light Mode"
+  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Congo }}"
+
+list:
+  externalurl_title: "Link σε διαφορετικό ιστότοπο."
+  no_articles: "Δεν υπάρχει άρθρο σε αυτή την λίστα ακόμα."
+
+nav:
+  scroll_to_top_title: "Scroll to top"
+  skip_to_main: "Skip to main content"
+
+search:
+  open_button_title: "Αναζήτηση (/)"
+  close_button_title: "Κλείσιμο (Esc)"
+  input_placeholder: "Αναζήτηση"
+
+sharing:
+  email: "Αποστολή email"
+  facebook: "Κοινοποίηση στο Facebook"
+  linkedin: "Κοινοποίηση στο LinkedIn"
+  pinterest: "Pin on Pinterest"
+  reddit: "Submit to Reddit"
+  twitter: "Tweet on Twitter"
+
+shortcode:
+  recent_articles: "Recent"
