@@ -6,11 +6,7 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "congo"
-<<<<<<< HEAD
-defaultAppearance = "light" # valid options: light or dark
-=======
 defaultAppearance = "dark" # valid options: light or dark
->>>>>>> ac934c5 (Dark theme as default and new hamburger menu)
 autoSwitchAppearance = true
 
 enableSearch = true
