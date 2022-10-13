@@ -331,8 +331,8 @@ ol,
 ul,
 menu {
   list-style: none;
+  margin-right: 35%;
   margin-top: 5%;
-  margin-left: 42%;
   padding: 0;
 }
 
@@ -341,7 +341,7 @@ Prevent resizing textareas horizontally by default.
 */
 
 textarea {
-  resize: vertical;
+  resize: resizing;
 }
 
 /*
