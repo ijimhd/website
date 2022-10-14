@@ -10,7 +10,7 @@
 *,
 ::before,
 ::after {
-  box-sizing: border-box;
+  box-sizing: content-box;
   /* 1 */
   border-width: 0;
   /* 2 */
@@ -3052,6 +3052,9 @@ body:has(#menu-controller:checked) {
   }
 }
 
+
+/* Css for mobile device*/
+
 @media (max-width: 390px) {
   .sm\:mb-0 {
     margin-bottom: 0px;
@@ -3063,9 +3066,9 @@ body:has(#menu-controller:checked) {
 
   .sm\:flex-row {
     flex-direction: row;
-    margin-top: 15%;
+    margin-top: 25%;
     margin-left: -50%;
-    margin-right: 50px;
+    margin-right: 33px;
   }
 
   .sm\:p-6 {
@@ -3091,6 +3094,11 @@ body:has(#menu-controller:checked) {
     line-height: 1.75rem;
   }
 
+  .text-lg {
+    font-size: 1.390rem;
+    line-height: 1.75rem;
+  }
+  
   [dir="ltr"] .ltr\:sm\:mr-7 {
     margin-right: .75rem;
   }
@@ -3144,8 +3152,13 @@ body:has(#menu-controller:checked) {
     line-height: 1.75rem;
   }
 
+  .text-lg {
+    font-size: 1.300rem;
+    line-height: 1.75rem;
+  }
+
   [dir="ltr"] .ltr\:sm\:mr-7 {
-    margin-right: .75rem;
+    margin-right: 1.15rem;
   }
 
   [dir="ltr"] .ltr\:sm\:last\:mr-0:last-child {
