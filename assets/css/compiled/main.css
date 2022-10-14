@@ -3058,32 +3058,37 @@ body:has(#menu-controller:checked) {
 @media (max-width: 390px) {
   .sm\:mb-0 {
     margin-bottom: 0px;
-  }
+}
 
   .sm\:w-1\/2 {
     width: 0%;
+
   }
 
   .sm\:flex-row {
-    flex-direction: row;
-    margin-top: 20%;
-    margin-left: -70%;
-    margin-right: 6%;
+    flex-direction: column;
+    margin-top: 0%;
+    margin-bottom: 0%;
   }
 
+  .mb-3 {
+    margin-top: -40%
+  }
+  
   .sm\:p-6 {
-    padding: 1.5rem;
+      padding: 1.5rem;
   }
 
   .sm\:px-14 {
     padding-left: .5rem;
     padding-right: .5rem;
+    margin-top: -7%;
   }
 
   .sm\:py-10 {
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
-  }
+}
 
   .sm\:pt-10 {
     padding-top: 2.5rem;
@@ -3095,8 +3100,8 @@ body:has(#menu-controller:checked) {
   }
 
   .text-lg {
-    font-size: 1.390rem;
-    line-height: 1.75rem;
+    font-size: 1.300rem;
+    line-height: 2.30rem;
   }
   
   [dir="ltr"] .ltr\:sm\:mr-7 {
@@ -3104,7 +3109,7 @@ body:has(#menu-controller:checked) {
   }
 
   [dir="ltr"] .ltr\:sm\:last\:mr-0:last-child {
-    margin-right: 0px;
+    margin-right: .75rem;
   }
 
   [dir="rtl"] .rtl\:sm\:ml-7 {
