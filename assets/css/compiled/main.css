@@ -3066,9 +3066,9 @@ body:has(#menu-controller:checked) {
 
   .sm\:flex-row {
     flex-direction: row;
-    margin-top: 25%;
-    margin-left: -50%;
-    margin-right: 33px;
+    margin-top: 20%;
+    margin-left: -70%;
+    margin-right: 6%;
   }
 
   .sm\:p-6 {
@@ -3076,7 +3076,7 @@ body:has(#menu-controller:checked) {
   }
 
   .sm\:px-14 {
-    padding-left: 1.5rem;
+    padding-left: .5rem;
     padding-right: .5rem;
   }
 

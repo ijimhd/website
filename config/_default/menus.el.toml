@@ -11,20 +11,20 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
-  pageRef = "docs"
+  name = "Αρχική"
+  pageRef = "/"
   weight = 10
 
 [[main]]
-  name = "Samples"
-  pageRef = "samples"
+  name = "Άρθρα"
+  pageRef = "docs"
   weight = 20
-
+  
 [[main]]
-  name = "Users"
+  name = "Άρχεία"
   pageRef = "users"
   weight = 30
-  
+
 [[main]]
   name = "GitHub"
   url = "https://github.com/ijimhd"
