@@ -3106,7 +3106,7 @@ body:has(#menu-controller:checked) {
 
   .text-lg {
     font-size: 1.300rem;
-    line-height: 2.30rem;
+    line-height: 2.20rem;
   }
   
   [dir="ltr"] .ltr\:sm\:mr-7 {
