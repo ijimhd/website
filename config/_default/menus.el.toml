@@ -21,7 +21,7 @@
   weight = 20
   
 [[main]]
-  name = "Άρχεία"
+  name = "Λήψεις"
   pageRef = "users"
   weight = 30
 
