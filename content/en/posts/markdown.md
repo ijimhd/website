@@ -1,7 +1,9 @@
 ---
 title: "Markdown"
-date: 2019-03-11
+date: 2020-08-08
+draft: false
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+slug : "markdown"
 tags: ["markdown", "css", "html", "sample"]
 ---
 

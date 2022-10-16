@@ -22,7 +22,7 @@
   
 [[main]]
   name = "Λήψεις"
-  pageRef = "users"
+  pageRef = "files"
   weight = 30
 
 [[main]]

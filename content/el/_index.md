@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Μια συλλογή από οδηγούς και αρχεία για Windows, Linux, Android.
+A collection of guides and downloads for Windows, Linux, Android.
 {{< /lead >}}
 
 

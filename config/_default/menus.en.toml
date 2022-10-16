@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Files"
-  pageRef = "users"
+  pageRef = "files"
   weight = 30
   
 [[main]]

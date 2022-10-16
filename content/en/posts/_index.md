@@ -9,10 +9,10 @@ cascade:
 ---
 
 {{< lead >}}
-A collection of guides on how to customize and configure different operating systems like Windows, Linux, Android.
+A collection of guides on how to customize and configure different operating systems like Windows, Linux and Android.
 {{< /lead >}}
 
-![Screenshots of Congo on an iPhone, iPad and MacBook](screenshot.png)
+![Caryatids](screenshot.png)
 
 
 ---

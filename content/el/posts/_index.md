@@ -1,5 +1,5 @@
 ---
-title: "Αναρτήσεις"
+title: "Άρθρα"
 description: ""
 
 cascade:
@@ -9,10 +9,10 @@ cascade:
 ---
 
 {{< lead >}}
-Μια συλλογή από οδηγούς για την διαμόρφωση και εξατομίκευση διαφορων λειτουργικών συστημάτων όπως Windows, Linux, Android.
+Μια συλλογή από οδηγούς για την προσαρμογή και διαμόρφωση διάφορων λειτουργικών συστημάτων όπως Windows, Linux και Android.
 {{< /lead >}}
 
-![Screenshots of Congo on an iPhone, iPad and MacBook](screenshot.png)
+![Καρυάτιδες](screenshot.png)
 
 
 ---
