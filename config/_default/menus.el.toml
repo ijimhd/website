@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Άρθρα"
-  pageRef = "docs"
+  pageRef = "posts"
   weight = 20
   
 [[main]]
