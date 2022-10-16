@@ -5,7 +5,9 @@ description: ""
 cascade:
   showDate: false
   showAuthor: false
+  showEdit: false
   invertPagination: true
+  showSummary: true
 ---
 
 {{< lead >}}

@@ -4,7 +4,7 @@ date: 2020-08-08
 draft: false
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 slug : "markdown"
-tags: ["markdown", "css", "html", "sample"]
+tags: ["markdown"]
 ---
 
 This article offers a sample of basic Markdown formatting that can be used in Congo, also it shows how some basic HTML elements are decorated.

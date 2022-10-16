@@ -3071,6 +3071,24 @@ body:has(#menu-controller:checked) {
     margin-bottom: 0%;
   }
 
+  .text-sm {
+    font-size: 0.875rem;
+    padding-bottom: 0%;
+  }
+
+  .mt-0 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+  }
+  
+  .mb-9 {
+    margin-bottom: -55%;
+  }
+
+  .px-2 {
+    margin-right: 10%;
+  }
+  
   .py-10 {
     margin-bottom: 10%;
   }
