@@ -7,6 +7,7 @@ slug : "linux"
 tags: ["linux"]
 ---
 
+---
 ## Overview
 
 This is a guide on how to install a Linux distribution on your machine. In this article you will learn how to install Linux Mint on any computer, the process is about the same on all Linux distributions. Linux Mint is a Linux distribution based on Ubuntu. It uses the apt package manager and it's generally considered to be one of the best distributions for people that are trying to get away from Windows.
