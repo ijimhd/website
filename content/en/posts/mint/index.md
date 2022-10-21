@@ -60,22 +60,10 @@ To download Virtual Box head into https://www.virtualbox.org/. Head to the botto
 
 The video below shows you how to set up your virtual machine to install Linux Mint. Some things to keep in mind: give the virtual machine half of your systems ram and half of your CPU cores.
 
-{{< rawhtml >}} 
-
-<video width=100% controls>
-    <source src="virtualbox.webm" type="video/webm">  
-</video>
-
-{{< /rawhtml >}}
+{{< youtube RAR7Wt9X4YI >}}
 
 ## Installing Linux Mint
 
 The last part is to install Linux Mint on your system. This process will take about 5-10 minutes depending on your hardware. The video below shows the process and it was cut for the sake of time.
 
-{{< rawhtml >}} 
-
-<video width=100% controls>
-    <source src="installation.mp4" type="video/webm">  
-</video>
-
-{{< /rawhtml >}}
+{{< youtube kPogDIzAePI >}}
