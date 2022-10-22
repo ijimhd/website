@@ -66,4 +66,4 @@ The video below shows you how to set up your virtual machine to install Linux Mi
 
 The last part is to install Linux Mint on your system. This process will take about 5-10 minutes depending on your hardware. The video below shows the process and it was cut for the sake of time.
 
-{{< youtube kPogDIzAePI >}}
+{{< youtube SKN-7LNe9zo >}}
