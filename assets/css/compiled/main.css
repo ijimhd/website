@@ -3094,8 +3094,8 @@ body:has(#menu-controller:checked) {
   }
   
   .mb-3 {
-    margin-top: -40%;
-    margin-bottom: -0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
   }
   
   .sm\:p-6 {

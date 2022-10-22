@@ -30,7 +30,7 @@ The best and fastest way to install and use Linux and any other operating system
 
 To do that you have to format your hard drive which is not ideal for many people as they want to keep their Windows install. If you decide to install Linux on physical hardware TAKE A BACKUP of all your files (pictures, documents etc) as this process will delete everything you have. 
 
-If you don't want to install Linux on your physical machine and just want to try it out you can do so by installing it on a Virtual Machine. So skip these steps and go straight to [installing linux on a Virtual Machine]({{< ref "posts/mint/index#installing-linux-on-a-virtual-machine" >}})
+If you don't want to install Linux on your physical machine and just want to try it out you can do so by installing it on a Virtual Machine. So skip these steps and go straight to [installing a Virtual Machine]({{< ref "posts/mint/index#installing-a-virtual-machine" >}})
 
 ### Creating a USB
 
